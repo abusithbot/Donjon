@@ -11,7 +11,6 @@ ralentis les effets des poison.
 bouclier de convoitise:
 vous trouvez des recompenses et attirer des ennemies envieux
 
-arc:
 
 cape d'invisibilité:
 
