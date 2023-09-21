@@ -1,0 +1,3 @@
+arme qui a que du drip 
+
+att: 25 def: 12 mag:3
