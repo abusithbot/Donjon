@@ -1,3 +1,3 @@
 arme qui a que du drip 
 
-att: 25 def: 6 mag:3
+att: 25 def: 8.5 mag:3
